@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm FAHAD</h1>
 <h3 align="center">A passionate frontend🍂 I study at Karachi University 🍃 Now I'm Enjoying Learning Web Programming developer</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+![Uploading image.png…]()
+
 
 
 - 🔭 I’m currently working on **html,css,javascript,php**
