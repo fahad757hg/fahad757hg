@@ -1,6 +1,5 @@
--  hi, i’m fahad
--  i’m interested in webiste making...
--  i’m currently learning & doing various tasks also ...
-  
-  
+hi im  fahad
+🍂 I study at karachi University
+ 🍃 Now I'm Enjoying Learning Web programming 
+ 
 
