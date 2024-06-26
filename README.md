@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend🍂 I study at Karachi University 🍃 Now I'm Enjoying Learning Web Programming developer</h3>
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad757hg&label=Profile%20views&color=0e75b6&style=flat" alt="fahad757hg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad757hg" alt="fahad757hg" /></a> </p>
 
 - 🔭 I’m currently working on **html,css,javascript,php**
 
