@@ -10,7 +10,7 @@ https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif
 
 - 🌱 I’m currently learning **php,react,android**
 
-- 👨‍💻 All of my projects are available at [https://discord.com/channels/@me/1157031704213598289/1253064481278529568](https://discord.com/channels/@me/1157031704213598289/1253064481278529568)
+- 👨‍💻 All of my projects are available at https://fahad757hg.github.io/my-animation-portfolio/
 
 - 💬 Ask me about **html,css,javascript,php,mysql,figma,**
 
